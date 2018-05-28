@@ -7,8 +7,8 @@ import view.Observer;
  * require that all observables are able to register an ob-
  * server, and have capability to notify all observers. 
  * 
- * @author ronaldvandijk
- * @version 01-02-2017
+ *
+ *
  */
 public interface Observable {
 	
