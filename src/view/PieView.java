@@ -19,7 +19,7 @@ public class PieView extends JPanel {
 
         JPanel pieView = new JPanel();
         pieView.setLayout(new FlowLayout());
-        pieView.setBackground(Color.GRAY);
+        pieView.setBackground(Color.WHITE);
         JLabel lblPieView = new JLabel("Cars");
         pieView.add(lblPieView);
         this.add(pieView);
