@@ -42,7 +42,7 @@ public class PieView extends JPanel {
         g.fillArc(10, 10, 180, 180, 0, aantalAdHoc);
         g.setColor(Color.blue);
         g.fillArc(10, 10, 180, 180, aantalAdHoc, aantalPassCar);
-        g.setColor(Color.black);
+        g.setColor(Color.green);
         g.fillArc(10, 10, 180, 180, aantalAdHoc + aantalPassCar, aantalReserved);
     }
 }
