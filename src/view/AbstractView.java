@@ -9,7 +9,7 @@ import javax.swing.*;
  * functionality is aggregated in this class.
  *
  * @author github source
- * @version 01-02-2017
+ * @version 25-05-2018
  */
 public abstract class AbstractView extends JPanel implements Observer {
     private static final long serialVersionUID = -2767764579227738552L;
