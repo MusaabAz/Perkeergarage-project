@@ -8,7 +8,7 @@ import javax.swing.*;
  * A displaypane is a JPanel and is used to register an observable. Various generalized
  * functionality is aggregated in this class.
  *
- * @author ronaldvandijk
+ * @author github source
  * @version 01-02-2017
  */
 public abstract class AbstractView extends JPanel implements Observer {
